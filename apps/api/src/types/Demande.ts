@@ -1,4 +1,4 @@
-import { categorie } from "../../categories";
+import { categorie } from "./categories";
 import { Etats } from "./etats";
 import { User } from "./UserProfile";
 
